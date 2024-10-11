@@ -1,10 +1,10 @@
-const title = "Cositas Lindas";
-const slogan = "Accesorios que cuentan tu historia.";
-const email = "cositaslindas2507@gmail.com";
+const title = "Cosiendo Lunas";
+const slogan = "Cada puntada, una historia";
+const email = "ruedamarcela293@gmail.com";
 const mensajeWhatsApp = encodeURIComponent(
     `¡Hola! Estoy interesado en los accesorios de ${title} y me gustaría obtener más información. ¡Gracias!`
 );
-const numeroWhatsApp = "3028279496";
+const numeroWhatsApp = "3233351056";
 
 const textos = {
     index: {
@@ -14,7 +14,8 @@ const textos = {
         title: `${title}`,
     },
     about: {
-        description1: "La esencia de Cositas Lindas se basa en accesorios que no solo complemente tu outfit, si no que también te haga sentir feliz y radiante en cada ocasión, pensando en brindarte piezas duraderas y un acabado increíble a precios accequibles. Nuestro compromiso es hacer que cada cliente se sienta único y especial al lucir nuestras creaciones."
+        description1: "En Cosiendo Lunas, nos dedicamos a crear productos artesanales con pasión y dedicación. Bajo la dirección de Marcela Rueda León, nuestro emprendimiento busca ofrecer soluciones creativas y personalizadas a través de la costura. Cada prenda y artículo que confeccionamos está pensado para satisfacer las necesidades de nuestros clientes, fusionando diseño, calidad y detalles únicos.",
+        description2: "Nos especializamos en productos hechos a mano que reflejan nuestra dedicación al trabajo artesanal. Ya sea que busques algo especial o personalizado, en Cosiendo Lunas, nos esforzamos por entregar piezas que cuenten una historia en cada puntada.",
     },
     contact: {
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
@@ -28,7 +29,7 @@ const textos = {
         address: "",
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/profile.php?id=61566082556168&mibextid=ZbWKwL",
+        facebook: "https://www.facebook.com/profile.php",
         instagram: "https://www.instagram.com/",
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
     },
